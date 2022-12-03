@@ -1,5 +1,7 @@
+# Blindfold Brownies
+So easy you could make it blindfolded!
  
-# Ingredients
+## Ingredients
 - 1 cup butter, melted and cooled
 - 1 cup granulated white sugar
 - 1 cup packed dark brown sugar
@@ -11,7 +13,7 @@
 - 1 teaspoon kosher salt 
 - 1 ¼ cups chopped chocolate, divided (bittersweet, half bittersweet half white)
 
-# Instructions
+## Instructions
 1. Preheat oven to 350°F. Spray a 9×13" baking pan with nonstick cooking spray. Line with parchment paper with an overhang on the sides and spray again. This will make it easy to lift the brownies out of the pan after baking. Set the pan aside.
 2. In a large mixing bowl stir together melted butter, granulated sugar, brown sugar, eggs, and vanilla extract until smooth and combined. 
 3. Sift in flour and cocoa. Add the salt and espresso powder, if using, and stir until just combined. Don't over mix. Fold in 1 cup of chopped chocolate. Spread evenly into prepared pan and sprinkle the remaining ¼ cup of chopped chocolate on top of the brownies. 
